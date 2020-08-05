@@ -1,2 +1,2 @@
 # Data-Science-projects
-Includes Data Science projects from Kaggle and Analytics Vidya 
+Includes Data Science projects, hackathon competitions from Kaggle and Analytics Vidya 
